@@ -3,7 +3,7 @@
 This project was completed as part of a **Business Analyst Internship at Saiket Systems**.  
 It focuses on analyzing **customer churn behavior** in a telecommunications company using **data analysis, visualization, and business insights** to identify at-risk customers and recommend retention strategies.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
 
 ---
 
